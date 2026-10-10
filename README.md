@@ -29,7 +29,3 @@ The Tourism Management System is a web-based application that helps users explor
 3. Import the project database using phpMyAdmin.
 4. Configure the database connection in the project.
 5. Open `http://localhost/tms/` in your browser.
-
-## Developer
-
-Megha Mohan
